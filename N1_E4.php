@@ -7,4 +7,8 @@ $persona = [
     "comida favorita" => "Estofado de ternera"
 ];
 
+/*
+echo $persona["comida favorita"];
+*/
+
 ?>
