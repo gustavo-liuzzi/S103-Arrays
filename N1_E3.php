@@ -7,7 +7,7 @@ function checkIfAllWordsIncludeChar(array $array, string $caracter): bool {
             return false;
         } 
     }
-    return true;
+    return true;    
 }
 
 
